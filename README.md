@@ -28,13 +28,15 @@ Visuals
 The analysis used various visualizations to represent the data and findings. A histogram was used to visualize the distribution of standard_salaries, while boxplots were used to visualize the distribution of standard_salaries for positions that require specific skills. Bar, histograms, and other charts were used to represent the frequency of skill, city, and company occurrences.
 
 Below are the image paths for the visualizations used in this analysis:
+![python_salary](https://user-images.githubusercontent.com/113561969/224456767-4da9a7d4-997e-4f1c-bc69-9e54a0a49902.png)
+![remote_salary](https://user-images.githubusercontent.com/113561969/224456777-a0b3635d-5d33-493e-baa4-cc3739de1cdf.png)
+![top_companies](https://user-images.githubusercontent.com/113561969/224456781-999d0aff-1339-4864-81cf-00c81c5b876a.png)
+![top5_skills](https://user-images.githubusercontent.com/113561969/224456788-3e289e66-5508-4ff6-ae20-b74cc8a17aa9.png)
+![non_remote](https://user-images.githubusercontent.com/113561969/224456794-865aefe6-255a-41d4-a0c5-41d4f670863a.png)
+![SQL_Salary](https://user-images.githubusercontent.com/113561969/224456797-7350ae56-9a23-4e60-abbc-eaa288eeeeb1.png)
 
-/Users/ezequielesparza/Job_Statistics/images/non_remote.png
-/Users/ezequielesparza/Job_Statistics/images/python_salary.png
-/Users/ezequielesparza/Job_Statistics/images/remote_salary.png
-/Users/ezequielesparza/Job_Statistics/images/SQL_Salary.png
-/Users/ezequielesparza/Job_Statistics/images/top_companies.png
-/Users/ezequielesparza/Job_Statistics/images/top5_skills.png
+
+The frequency of company occurrence in the dataset was calculated and visualized using a bar chart. The top 5 companies for data analyst positions are UpWork, Cox Communications, Edward Jones, and Insight Global.
 
 Results
 The analysis showed that most salaries for data analyst positions are between $50,000 and $150,000. Positions that allow remote work generally have a wider range of salaries than those that don't. The top 5 most-requested skills are SQL, Python, Excel, Tableau, and Power_Bi. The top 5 cities for data analyst positions are Anywhere(Remote), Wichita, Maize, and Tulsa, while the top 5 companies for data analyst positions are UpWork, Cox Communications, Edward Jones, and Insight Global.
