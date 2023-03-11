@@ -35,6 +35,7 @@ Below are the image paths for the visualizations used in this analysis:
 /Users/ezequielesparza/Job_Statistics/images/SQL_Salary.png
 /Users/ezequielesparza/Job_Statistics/images/top_companies.png
 /Users/ezequielesparza/Job_Statistics/images/top5_skills.png
+
 Results
 The analysis showed that most salaries for data analyst positions are between $50,000 and $150,000. Positions that allow remote work generally have a wider range of salaries than those that don't. The top 5 most-requested skills are SQL, Python, Excel, Tableau, and Power_Bi. The top 5 cities for data analyst positions are Anywhere(Remote), Wichita, Maize, and Tulsa, while the top 5 companies for data analyst positions are UpWork, Cox Communications, Edward Jones, and Insight Global.
 
