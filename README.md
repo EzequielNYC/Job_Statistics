@@ -1,4 +1,4 @@
-Data Analyst Job Postings Analysis
+## Data Analyst Job Postings Analysis
 
 This project analyzed a dataset of data analyst job postings to identify trends and statistics related to job location, required skills, and salary. The dataset contains information of over 2,000 job postings, including job title, company name, location, salary, required skills, and more.
 
